@@ -41,5 +41,5 @@ Your feedback is greatly appreciated.
 
 <a id="licensing"></a>
 ## Licensing, Authors, and Acknowledgements
-All credit to Airbnb for providing the data. The Licensing for the data and other descriptive information at the 
+All credit to Airbnb for providing the data. The Licensing for the data and other descriptive information can be found at the 
 Kaggle link available [here](https://www.kaggle.com/airbnb/seattle). Otherwise, feel free to use the code here as you would like!
