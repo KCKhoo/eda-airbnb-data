@@ -19,7 +19,7 @@ After installing the libraries, the code should run with no issues using Python 
 <a id="overview"></a>
 ## Project Overview
 The goal of this project is to better understand what influences the price of accommodations on Airbnb using Seattle Airbnb data. 
-To be more specific, the data was leveraged to answer the following questions:
+To be more specific, Airbnb data was leveraged to answer the following questions:
 
 - How does price vary with different types of properties?
 - How do review scores affect the price?
